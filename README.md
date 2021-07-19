@@ -1,4 +1,4 @@
-# NSYSU_C_Computer_Programming
+# NSYSU_C_Computer_Programming (I)
 Exercise and homework of c language (Including lec and lab)
 
 ## Course info
